@@ -22,7 +22,14 @@ The following is a list of our publications:
 
 ## Invited Talks/Trainings
 
-- (not yet available)
+- Invited talk on 23 July 2025 at School of Computing, University of Portsmouth, United Kingdom
+  - Title: Digital Twin-Based Deep Q-Learning Strategy for Smart Handover Optimization in 5G/6G Networks
+  - Presenter: Dr Mohammad Shojafar
+  - Organizer: Dr Rahim Taheri
+- Invited talk on 06 August 2025 at University of Reading, United Kingdom
+  - Title: Digital Twin-Based Deep Q-Learning Strategy for Smart Handover Optimization in 5G/6G Networks
+  - Presenter: Dr Mohammad Shojafar
+  - Organizer: Dr Zahra Pooranian
 
 ## Result Dissemination
 
