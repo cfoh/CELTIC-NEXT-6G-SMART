@@ -16,6 +16,7 @@ The following is a list of our publications:
   IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-7, doi: 10.1109/WCNC61545.2025.10978503.
   [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10978503)
   [[View PDF]](https://github.com/cfoh/CELTIC-NEXT-6G-SMART/blob/main/a48-final.pdf)
+  [[Dataset]](https://huggingface.co/datasets/thainasaraiva/Telco-DPR/tree/main)
 - M. Sousa, P. Vieira, M. P. Queluz and A. Rodrigues, "Performance Analysis of Mobile Wireless Networks Through Crowdsourcing Data Clustering,"
   IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Nice, France, 2025, pp. 1-6,
   doi: 10.1109/MeditCom64437.2025.11104421. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11104421)
