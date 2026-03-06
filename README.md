@@ -34,5 +34,5 @@ The following is a list of our publications:
 
 ## Result Dissemination
 
-- (not yet available)
+- WP3 result presentation to China Telecom on 20 March 2026 at University of Surrey, United Kingdom
 
