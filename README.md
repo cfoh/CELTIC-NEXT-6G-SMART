@@ -8,7 +8,7 @@ Welcome to CELTIC-NEXT 6G-SMART Open Access Space. You can find our publications
 
 The following is a list of our publications:
 - Z. He, M. Shojafar, C. H. Foh and R. Tafazolli, "Diffusion Policies Reinforcement Learning for Resource Allocation in Open RAN Digital Twin,"
-  IEEE Networking Letters, vol. 8, pp. 164-168, 2026, doi: 10.1109/LNET.2026.3655578.
+  IEEE Networking Letters, vol. 8, pp. 164-168, 2026, doi: 10.1109/LNET.2026.3655578. [[IEEE Xplore]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11357509&tag=1)
 - C. Hidalgo-Luque, R. Pérez de Prado, M. Shojafar, J. Enrique Muñoz Expósito, C. H. Foh, Á. Cifuentes,
   "Digital Twin-Based Deep Q-Learning Strategy for Smart Handover Optimization in 5G/6G Networks,"
   International Joint Conference on Neural Networks (IJCNN) 2025: pp. 1-6, doi: 10.1109/IJCNN64981.2025.11228319.
